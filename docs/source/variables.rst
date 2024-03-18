@@ -6,8 +6,7 @@ Version 23
 
 .. _variables-1:
 
-1 Variables
-===========
+
 
 1.1 Variable System
 -------------------
@@ -307,15 +306,7 @@ the values **A: Architectur; C: Construction; X: Administrator**.
 this case. . The following text can be used to query the variables:
 **The input situation is not** **defined!**.
 
-. **%DHPABB%:raw-latex:`\DVARSITX`.bmp** should be used here as an
-auxiliary image, which provides corresponding information. ▪ So that all
-conditional variables are displayed in the case of \**V_VarSit = \_,*\*
-it is recommended to include the underscore in the selection. For a
-variable that should normally only be queried in the architecture input
-situation, the condition is then: \**(V_VarSit = {A \* ~ \_}*\* ). For a
-variable that should only be queried in the architecture and
-construction input situations, the condition is then: \**(V_VarSit = {A
-\* ~ C \* ~ \_}).*\*
+
 
 ::
 
@@ -420,7 +411,7 @@ number of colors.
 ▪ Dietrich’s provides a comprehensive set of help pictures for different
 applications. They can be found in the system directory for help
 pictures **%dhpabb%** ,
-e.g. C::raw-latex:`\Dietrichs12`:raw-latex:`\abb`. These pictures are
+e.g.  These pictures are
 generally available for all users with a current release version. If you
 share files using these pictures, you don’t have to share the linked
 images as well. That’s why variable sets and default value definitions
@@ -510,7 +501,7 @@ searching, replacing, copying etc. available. Now, in all dialogs for
 variable definition (default values, samrt tags, logic blocks and HRB
 editor), the variables can also be swapped out and put back into a text
 file. The files are located as for the calculations in **%DHPTMP%**
-(z.B. **C::raw-latex:`\Dietrichs19`:raw-latex:`\wintmp*`\* ) ans the
+ ans the
 filenames are**\ VAEditor.txt*\* bzw. **VAEditorHRB.txt**.
 
 1.2.5.3 log-files for variables and calculations
@@ -519,7 +510,7 @@ When executing logic blocks and when working with wal guidelines we can
 generate log files. These contain a list of the variables and
 calculations with the corresponding values in the respective situation.
 The log files are created in the **%DHPTMP%** directory (for example,
-\**c::raw-latex:`\Dietrichs20`:raw-latex:`\wintmp*`\* ). They are
+
 extremely helpful for the control, but these files are not necessary for
 the application of logic blocks and wall guidelines The generation is
 controlled in the project administration in the function ” *5 - 02 - 1
@@ -528,7 +519,7 @@ If it is set, the log files are generated. By default, the checkbox is
 not set, the files are not created. This saves time in the process.
 
 2 Formulas and Text
-===================
+
 
 2.1 Formulas
 ------------
@@ -1038,7 +1029,7 @@ independent conditions and are analyzed accordingly. Mathematical
 formulas as well as text comparisons are possible here.
 
 3 Editable settings files
-=========================
+
 
 (18.02) Some functions of the program require editable settings that are
 not to burden the dialogues and are particularly effective to edit in a
@@ -1449,7 +1440,7 @@ also be used for a description, as it facilitates later processing
 considerably.
 
 4 Log
-=====
+
 
 ::
 

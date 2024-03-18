@@ -1,5 +1,5 @@
 Welcome to Dietrichs's documentation!
-===================================
+=====================================
 
 	
 
@@ -28,3 +28,4 @@ Contents
    loading
    logicblocks
    usage
+   api.rst
