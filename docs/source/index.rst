@@ -24,3 +24,6 @@ Contents
 
    about
    installation
+   variables
+   workplanes
+   loading
