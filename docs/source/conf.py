@@ -27,6 +27,7 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+
 # -- Options for HTML output
 
 html_theme = 'piccolo_theme'
