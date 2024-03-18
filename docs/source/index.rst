@@ -22,8 +22,9 @@ Contents
 
 .. toctree::
 
-   about
    installation
    variables
    workplanes
    loading
+   logicblocks
+   usage
