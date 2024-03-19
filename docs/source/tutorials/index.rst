@@ -8,16 +8,24 @@ Welcome to Dietrichs's Tutorials!
 
    This project is under active development.
 
-Contents
+Select a Tutorial Below
 --------
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
-   variables
+   
+   site
+   walls
+   roof
+   floor
+   ramps
+   stairs
+   railings
    workplanes
    loading
    logicblocks
+   variables
    
    
    
