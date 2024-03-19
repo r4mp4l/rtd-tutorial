@@ -34,7 +34,6 @@ Notes
 Notes
 
 Dietrich’s Academy
-==================
 
 ::
 
@@ -58,8 +57,6 @@ Dietrich’s Academy
    to prosecution according to §§ 106 ff UrhG (Copyright Act), is also subject to a fine and must pay damages
    (§ 97UrhG).
 
-Author
-======
 
 ::
 
@@ -73,7 +70,6 @@ Notes
 .. _d-cam-work-planes-1:
 
 D-CAM Work Planes
-=================
 
 1 Introduction Content
 ----------------------

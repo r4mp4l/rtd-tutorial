@@ -21,11 +21,10 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 3
 
    installation
-   variables
-   workplanes
-   loading
-   logicblocks
+   Tutorials <tutorials/index.rst>
    usage
+   
    api.rst

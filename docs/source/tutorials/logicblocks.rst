@@ -1094,8 +1094,7 @@ LB can be inserted.
    ▪ The system points of the opening can be accessed with the variables ORnX and ORnY (n = 1-
    12). Instead of ORnZ of the wall openings ORnY is used here.
 
-▪ The openings in the ceiling can be rotated. The X-direction of the opening is indicated by OAR
-================================================================================================
+ The openings in the ceiling can be rotated. The X-direction of the opening is indicated by OAR
 
 ::
 
