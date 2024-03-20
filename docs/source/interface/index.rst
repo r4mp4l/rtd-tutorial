@@ -1,13 +1,12 @@
 User Interface Fundamentals
 ===========================
 
-Learn About Interfaces Below
---------
-.. toctree::
-   :maxdepth: 2
 
+
+.. toctree::
+   :maxdepth: 4
    
-   Project
+   basics
    dcam
    FloorPlan
    FloorDecks

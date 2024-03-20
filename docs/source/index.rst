@@ -10,13 +10,6 @@ Welcome to Dietrich's!
 Globally active industrial companies, customers from the craft sector, the construction industry and the industry have been using our tailor-made wood-based software for the most demanding CAD tasks for 40 years. For more than 10,000 users, we are a long-standing and reliable partner and are among the world's market leaders in the field of CAD programs for timber construction. We support you and your projects not only with our software, but also with competent advice and training on the spot, professional service, support and individual system solutions - Wood is our Passion!
 
 
-
-
-
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
    This project is under active development.
@@ -30,7 +23,7 @@ Contents
    
    fundamentals/index.rst
    interface/index.rst
-   tutorials/index.rst
-   
+   BasicTutorials/index.rst
+   AdvancedTutorials/index.rst
    
    api.rst

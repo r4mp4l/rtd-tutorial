@@ -1,16 +1,7 @@
-Welcome to Dietrichs's Tutorials!
+Basic Tutorials
 =====================================
-
-	
-
-
 .. note::
-
    This project is under active development.
-
-Select a Tutorial Below
---------
-
 .. toctree::
    :maxdepth: 2
 
@@ -19,13 +10,12 @@ Select a Tutorial Below
    walls
    roof
    floor
+   doors
+   windows
    ramps
    stairs
    railings
    workplanes
-   loading
-   logicblocks
-   variables
    
    
    
