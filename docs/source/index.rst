@@ -27,8 +27,10 @@ Contents
 .. toctree::
    :maxdepth: 3
 
-   installation
+   
+   fundamentals/index.rst
+   interface/index.rst
    tutorials/index.rst
-   usage
+   
    
    api.rst
