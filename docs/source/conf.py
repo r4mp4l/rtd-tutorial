@@ -29,18 +29,29 @@ templates_path = ['_templates']
 
 
 # -- Options for HTML output
-
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_wagtail_theme'
+# html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_material'
 html_logo = 'assets/img/logo.png'
 
-html_theme_options = {
-    
-    'logo_only': True,
-    'display_version': True,
-    'prev_next_buttons_location': 'bottom',
-}
+# html_theme_options = {
+#    'logo_only': True,
+#    'display_version': True,
+#    'prev_next_buttons_location': 'bottom',
+#}
+
+
+html_theme_options = dict(
+    project_name = "Dietrichs Documentation",
+    logo = "assets/img/logo.png",
+    logo_alt = "Dietrichs",
+    logo_height = 59,
+    logo_url = "/",
+    logo_width = 45,
+)
+extensions = ["myst_parser"]
+extensions.append("sphinx_wagtail_theme")
 
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-

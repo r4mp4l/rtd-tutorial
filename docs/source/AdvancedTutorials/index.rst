@@ -8,13 +8,15 @@ Advanced Tutorials
 
    This project is under active development.
 
-
 .. toctree::
    :maxdepth: 2
 
    loading
-   logicBlocks
+   logicblocks
    variables
+   WallGuidelineEditor
+   Profiles
+
 
    
    

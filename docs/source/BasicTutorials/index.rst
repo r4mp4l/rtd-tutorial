@@ -3,9 +3,10 @@ Basic Tutorials
 .. note::
    This project is under active development.
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    
+   2D/index.rst
    site
    walls
    roof

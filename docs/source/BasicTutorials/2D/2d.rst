@@ -1,0 +1,183 @@
+Original D-CAD-L 2D Tutorial
+----------------------------
+
+The purpose of this tutorial is to provide a description of the
+Dietrich’s D-CAD-L 2D drawing software, which is a part of the
+Dietrich’s construction software system.
+
+This tutorial focuses on how to use the D-CAD-L 2D drawing software and
+how to set up customized drawing properties, such as page layouts and
+dimension style. Methods to draw, edit and dimension drawings will be
+explained with the help of a step-by-step sample drawing done with
+D-CAD-L 2D. Additional functions, such as layers and libraries, will be
+explained as well.
+
+
+Dietrich’s provides a freeware of the drawing program D-CAD 2D. This
+fully functional 2D CAD Program is called D-CAD-L. D-CAD-L can be used
+to read and change D- CAD 2D drawings. Therefore, this tutorial can also
+be applied for the use of D-CAD 2D.
+
+The only limitation of D-CAD-L is that it is not possible to insert
+drawings stored in the Dietrich’s construction software.
+
+Please visit the Dietrich’s homepage to download the software and for
+further information
+(\ `www.dietrichs.com/en <https://www.google.com/url?q=http://www.dietrichs.com/en)&sa=D&source=editors&ust=1711141313829139&usg=AOvVaw0J6P5Urx5zq0zOBol1qMeH>`__\ `). <https://www.google.com/url?q=http://www.dietrichs.com/en)&sa=D&source=editors&ust=1711141313829398&usg=AOvVaw0pLMdrZiRC4yC5Bp3Rbnly>`__
+
+First steps
+-----------
+
+First, an overview of the general D-CAD-L 2D operating mode shall be
+provided.
+
+To be able to draw with the plan software, at least one view port is
+necessary. View ports can be created by starting a new drawing. However,
+it is always possible to change view ports and to add or delete them.
+
+Furthermore, every view port has its own scale. When starting a new view
+port, it always asks for the scale. If the scale of a view port is
+changed, all objects in it will be changed.
+
+However, the font size is always shown in the absolute size. That means,
+if a font size of 3mm is chosen, the heights of the letters will always
+be 3mm, independent of the drawing scale. The Font size is settable; on
+paper or absolute.
+
+In addition, it is possible to draw beside view ports on an unlimited
+drawing area. For that purpose, the zoom function has to be activated (7
+View ports 🡪 8 Full screen). A green box shows the position of the view
+port. Therefore, the view port shows a section (cut out) of the drawing
+area.
+
+The following chapters explain how to start the D-CAD 2D drawing
+software and how to organize, draw and edit drawings.
+
+How to start D-CAD-L 2D
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Start D-CAD-L 2D by using the icon:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The icon  to start D-CAD-L 2D can be found on your desktop after
+installing the program.
+
+Open Drawing
+^^^^^^^^^^^^
+
+Here you can open an existing or start a new one.
+
+New Drawing
+^^^^^^^^^^^
+
+After having started D-CAD-L 2D, a window pops up to ask for the paper
+size and the orientation of a new drawing. Select either a drawing
+template or individual settings.
+
+Drawing template: A drawing template with all the settings completed can
+be selected. Using a template, the other settings will be greyed out.
+
+The following chapters will explain how to save customized drawing
+templates.
+
+Drawing info: Here you can type in for example (garage) for you
+information.
+
+Printing device: It is possible to select an output device (printer) for
+the drawing. The list contains all printers available on your system.
+The selected printer will have an effect on the list of paper sizes.
+
+“User defined formats” can be selected if there is no printer installed
+or the drawing should not be specified yet. How to create user defined
+formats will be explained later.
+
+Paper size: The available paper sizes and the border settings for each
+page are taken from the printer device previously selected.
+
+Orientation: The paper orientation can be chosen, such as landscape and
+portrait.
+
+Drawing Header: For the header, select either your address, including
+the project information, or only your address. (In PlanCad-L you can
+only chose Address.)
+
+Create frame: It is possible to create a frame automatically around the
+drawing in thick or thin lines.
+
+View ports: View ports are spaces on paper that contain drawing objects.
+Each view port has its own properties, such as scale, coordinate system
+and layers.
+
+One, two or four view ports can be arranged automatically on the
+drawing. It is possible to add and remove view ports later on.
+
+D-CAD 2D screen
+
+
+
+How to create a title block
+---------------------------
+
+The following sections explain how to create title blocks with
+customized labelling fields. In addition to that, a description of how
+to insert pictures such as company logos will be provided.
+
+The title block, which will be created in this tutorial, has three lines
+and two columns and the overall size will be 10.0cm x 1.8cm. The
+labelling fields as shown in the picture below will be created.
+
+Title block
+
+New view port:
+--------------
+
+First of all, a new view port has to be inserted, as title blocks should
+be saved in their own view ports. Having its own view port, the title
+block is independent from the drawing scale of the other view ports and
+will always appear in the same size. It is recommended to use the scale
+1/1 for this view port.
+
+Window settings window
+
+Text and keywords:
+------------------
+
+D-CAD-L 2D provides the possibility of using keywords. Keywords are
+placeholders for drawing information, such as the project number and the
+date of creation.
+
+If the keywords are outdated, they can be updated by typing 6 Text 🡪 9
+Update keywords.
+
+Text window
+
+Save title block to the library:
+--------------------------------
+
+Title blocks can be saved to the library in order to use them in other
+drawings as well. The library is split up into two sections:
+
+-  The first section contains drawing sections and will be explained
+   later.
+-          Drawing sections are objects that can be put into an existing
+   view port such as furniture, people, cars and trees.
+-  The second section contains view ports including their corresponding
+   drawing objects, such as title blocks and entire drawings.
+
+Library – view ports window
+
+Import image:
+-------------
+
+This chapter explains how to insert pictures onto the drawing, such as
+company logos. Supported files are EMF, WMF, PNG, BMP, JPEG, and GIF...
+
+Import picture window
+
+Imported picture size window
+
+Images can be moved and deleted later on by typing 7 View ports 🡪 9
+Image / RTF🡪 2 Move / 3 Delete.
+
+
+

@@ -25,5 +25,4 @@ Contents
    interface/index.rst
    BasicTutorials/index.rst
    AdvancedTutorials/index.rst
-   
-   api.rst
+
