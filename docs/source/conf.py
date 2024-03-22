@@ -49,7 +49,7 @@ html_theme_options = dict(
     logo_url = "/",
     logo_width = 45,
 )
-extensions = ["myst_parser"]
+# extensions = ["myst_parser"]
 extensions.append("sphinx_wagtail_theme")
 
 
