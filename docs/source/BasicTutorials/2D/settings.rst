@@ -18,6 +18,7 @@ toolbars, units, object snap and page layouts as well as message time,
 auto save and do/undo steps.
 
 
+
 .. note::
 
    1. Type 1 (File)-7(Settings)-2(General Settings)
@@ -31,7 +32,7 @@ auto save and do/undo steps.
 Color set:
 ^^^^^^^^^^
 This window defines the colors used in D-CAD-L 2D. Color sets always consist of two colors. One for white background color and one for black background color. The background color can be changed in the General settings.
-New color sets can be added by entering a name and selecting the color.
+New color sets can be added by entering a name and selecting the colour.
 
 
 .. image:: ../setting_images/image26.png
