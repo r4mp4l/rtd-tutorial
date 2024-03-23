@@ -85,7 +85,7 @@ Object snap
 
 The object snap window controls, which object snap settings, are active.
 
-.. image:: ../setting_images/image6.png
+.. image:: ../setting_images/image6.jpg
   :width: 400
   :alt: Object Snap
 
