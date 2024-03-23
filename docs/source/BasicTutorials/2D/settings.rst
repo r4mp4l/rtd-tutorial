@@ -1,7 +1,6 @@
 Settings 
 --------
 
-
 The following chapters explain how to customize drawings. Procedures for
 setting up general settings, such as screen settings and paper sizes, as
 well as style settings, such as drawing, dimension and text styles will
