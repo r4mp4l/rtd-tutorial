@@ -1,5 +1,5 @@
-Settings - FF
--------------
+Settings 
+--------
 
 
 The following chapters explain how to customize drawings. Procedures for
@@ -17,9 +17,26 @@ This chapter explains how to set up display settings, color set,
 toolbars, units, object snap and page layouts as well as message time,
 auto save and do/undo steps.
 
+
+.. note::
+
+   1. Type 1 (File)-7(Settings)-2(General Settings)
+   2. Select “yes” for showing coordinate system and confirm by clicking “OK”
+
+
+.. image:: ../setting_images/image23.png
+  :width: 400
+  :alt: General Settings
+
 Color set:
 ^^^^^^^^^^
+This window defines the colors used in D-CAD-L 2D. Color sets always consist of two colors. One for white background color and one for black background color. The background color can be changed in the General settings.
+New color sets can be added by entering a name and selecting the color.
 
+
+.. image:: ../setting_images/image26.png
+  :width: 400
+  :alt: Define Colour Sets
 
 
 Screen settings window
@@ -52,6 +69,11 @@ Units
 It is possible to change the unit system of D-CAD-L 2D. In this
 tutorial, the unit “meter” will be used.
 
+.. image:: ../setting_images/image5.jpg
+  :width: 400
+  :alt: Unit System
+
+
 Unit’s window
 
 A shortcut for the current unit, e.g. “ft” for “feet-inch”, is shown in
@@ -62,6 +84,10 @@ Object snap
 ^^^^^^^^^^^
 
 The object snap window controls, which object snap settings, are active.
+
+.. image:: ../setting_images/image6.png
+  :width: 400
+  :alt: Object Snap
 
 User defined paper size
 ^^^^^^^^^^^^^^^^^^^^^^^
