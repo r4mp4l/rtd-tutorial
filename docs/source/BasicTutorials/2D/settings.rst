@@ -27,6 +27,7 @@ auto save and do/undo steps.
 .. image:: ../setting_images/image23.png
   :width: 400
   :alt: General Settings
+  :align: center
 
 Color set:
 ^^^^^^^^^^
@@ -37,6 +38,7 @@ New color sets can be added by entering a name and selecting the colour.
 .. image:: ../setting_images/image26.png
   :width: 400
   :alt: Define Colour Sets
+  :align: center
 
 
 Screen settings window
@@ -72,6 +74,7 @@ tutorial, the unit “meter” will be used.
 .. image:: ../setting_images/image5.jpg
   :width: 400
   :alt: Unit System
+  :align: center
 
 
 Unit’s window
@@ -88,6 +91,7 @@ The object snap window controls, which object snap settings, are active.
 .. image:: ../setting_images/image6.jpg
   :width: 400
   :alt: Object Snap
+  :align: center
 
 User defined paper size
 ^^^^^^^^^^^^^^^^^^^^^^^
