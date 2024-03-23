@@ -30,18 +30,32 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 html_theme = 'piccolo_theme'
-# By default the project value is used in the nav bar.
-project = 'Deitrichs Documentation'
-html_logo = 'https://www.dietrichs.com/fileadmin/_processed_/c/d/csm_dietrichs_5499b34bc7.png'
-pygments_style = "gruvbox-light"
+# html_theme = 'sphinx_wagtail_theme'
+# html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_material'
+# html_logo = 'assets/img/logo.png'
+
+# html_theme_options = {
+#    'logo_only': True,
+#    'display_version': True,
+#    'prev_next_buttons_location': 'bottom',
+#}
 
 
-html_theme_options = {
-    # Note how we can include links:
-    "banner_text": 'This is a temporary banner, <a href="https://mynewsletter.com/">please subscribe</a>!',
-    "globaltoc_collapse": True
-}
-
+html_theme_options = dict(
+    project_name = "Dietrichs Documentation",
+    logo = "../assets/img/logo.png",
+    logo_alt = "Dietrichs",
+    logo_height = 59,
+    logo_url = "/",
+    logo_width = 200,
+    header_links = "Dietrich's Home |http://dietrichs.com",
+    footer_links = ",".join([
+        "About Us|https://www.dietrichs.com/en/about-us/",
+        "Contact|https://www.dietrichs.com/en/contact/",
+        
+    ]),
+)
 # extensions = ["myst_parser"]
 extensions.append("sphinx_wagtail_theme")
 

@@ -1,5 +1,5 @@
-Templates - FF
---------------
+Templates -
+-----------
 
 
 It is possible to save entire page layouts to drawing templates. These
