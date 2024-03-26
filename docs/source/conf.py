@@ -38,8 +38,8 @@ pygments_style = "gruvbox-light"
 
 html_theme_options = {
     # Note how we can include links:
-    "banner_text": 'This is a temporary banner, <a href="https://mynewsletter.com/">please subscribe</a>!',
-    "globaltoc_collapse": True
+    # "banner_text": 'This is a temporary banner, <a href="https://mynewsletter.com/">please subscribe</a>!',
+    "globaltoc_collapse": False
 }
 
 # extensions = ["myst_parser"]

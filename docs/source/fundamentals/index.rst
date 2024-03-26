@@ -5,9 +5,10 @@ Spaceing?
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    
-   installation
-   modules
-   configuration
+   About the .. Software <about>
+   Installation Guide <installation>
+   Licensing Guide <lisence>
+   Configuration Guide <configuration>

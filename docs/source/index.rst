@@ -18,11 +18,10 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
 
    
    fundamentals/index.rst
-   interface/index.rst
    BasicTutorials/index.rst
    AdvancedTutorials/index.rst
 
